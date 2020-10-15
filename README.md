@@ -11,4 +11,8 @@ This repository contains the exam preparation notes for different certifications
 
 ## Youtube video
 
-[![DP-201 Designing an Azure Data Solution preparation guide](/images/DP-201 Exam prep.png)](https://youtu.be/6T8GG38A1BA)
+The Youtube video below is a reference to how I used these notes to prepare for the DP-200 and DP-201 exam.
+
+- [![DP-200 Implementing an Azure Data Solution preparation guide](/images/DP-200-exam-prep.png)](https://youtu.be/7mNfd3UWhdQ)
+
+- [![DP-201 Designing an Azure Data Solution preparation guide](/images/DP-201-exam-prep.png)](https://youtu.be/6T8GG38A1BA)
